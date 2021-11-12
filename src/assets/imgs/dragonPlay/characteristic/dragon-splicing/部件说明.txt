@@ -1,0 +1,5 @@
+1:fire
+2:thunder
+3:water
+2:wind
+2:stock
